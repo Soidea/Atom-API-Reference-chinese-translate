@@ -17,7 +17,11 @@ README.md部分除外
 
 初步计划如下：
 1.将https://atom.io/docs/api 中html文件下载
+
 2.将html文件转换为markdown(md)文件
+
 3.使用汉化工具将md文件汉化，并尝试保留原英文内容
+
 4.对翻译内容手工处理
+
 5.上传内容到git
